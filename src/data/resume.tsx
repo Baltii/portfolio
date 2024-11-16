@@ -51,7 +51,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ahmedbalti",
+        url: "https://github.com/Baltii",
         icon: Icons.github,
         navbar: true,
       },
@@ -63,7 +63,7 @@ export const DATA = {
       },
       Dribbble: {
         name: "Dribbble",
-        url: "https://dribbble.com/ahmedbalti",
+        url: "https://dribbble.com/BaltiiTN",
         icon: DribbbleIcon,
         navbar: true,
       },
